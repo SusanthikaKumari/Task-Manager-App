@@ -24,7 +24,7 @@ We use the **Scrum** methodology for this project.
 
 We’ve created a public project board to manage and track progress:
 
-🔗 **[View GitHub Project Board](https://github.com/users/SusanthikaKumari/projects/3/views/1)**  
+🔗 **[View GitHub Project Board](https://github.com/users/SusanthikaKumari/projects/4)**  
 
 ---
 
