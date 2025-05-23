@@ -6,7 +6,7 @@
 
 ## 🚀 Project Overview
 
-TaskMate is a simple yet powerful app that allows users to:
+Task Manager App is a simple yet powerful app that allows users to:
 - Create and update tasks
 - Mark tasks as completed
 - Set deadlines
@@ -20,19 +20,15 @@ We use the **Scrum** methodology for this project.
 
 ---
 
-
 ## 🗂️ GitHub Project Board
 
 We’ve created a public project board to manage and track progress:
 
 🔗 **[View GitHub Project Board](https://github.com/users/SusanthikaKumari/projects/3/views/1)**  
 
-
-This project is divided into 4 sprints over one month.
-
 ---
 
-## 📅 Sprint Plan – TaskMate Project
+## 📅 Sprint Plan – Task Manager App Project
 
 This project follows a 4-week sprint cycle.
 
