@@ -32,7 +32,7 @@ We’ve created a public project board to manage and track progress:
 
 This project follows a 4-week sprint cycle.
 
-### 🟩 Sprint 1: May 25 – May 31
+### 🟩 Sprint 1: May 24 – May 31
 **Objective:**  
 Initial setup, wireframes, repo setup, project board and foundational components.
 
